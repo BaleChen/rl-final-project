@@ -4,4 +4,4 @@ This project is my final project of CSCI-SHU 375 Reinforcement Learning with Pro
 
 ## Project Report & Scripts
 
-Please refer to **
+Please refer to `Bale_Chen_RL_Final_Project_Report.pdf` and `script` folder.
